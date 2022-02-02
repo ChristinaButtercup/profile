@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+body{
+  background-color: #FFCCDD;
+  color: #423561;
+  font-size: 25px;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+.img-circle {
+  border-radius: 50%;
+  box-shadow: 5px 5px 3px;
+}
+
+h1{
+  color: rgb(66, 18, 241);
+  font-size: 25px;
+  font-family: 'Permanent Marker', cursive;
+  line-height: normal;
+}
+
+h2{
+  color: rgb(66, 18, 241);
+  font-size: 20px;
+  font-family: 'Permanent Marker', cursive;
+  line-height: normal;
+  text-align: center;
+}
+
+a {
+text-decoration: none;
+}
+
+a:hover {
+  color: #E0F5D0;
+}
+
+.container {
+  width: 50%;
+  height: 500px;
+  font-size: 20px;
+  padding: 50px;
+  margin: 0 auto;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.list-inline {
+font-size: 50px;
+display: inline;
+list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+
+#introduction p {
+  margin-bottom: 40px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.button-pink {
+  background-color: #F603A3;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
